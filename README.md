@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dong Luu @Dluu520
-- 👀 I’m interested in Web and Mobile Application development 
-- 🌱 I’m currently learning AWS and SQL
+- 👀 I’m interested in Full-Stack/Front-end Web and Mobile Application development 
+- 🌱 I’m currently focused on React.js, Next.js, Vue, Angular
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: dluu520@yahoo.com
+- 📫 How to reach me: dong.luu520@gmail.com
 
 <!---
 Dluu520/Dluu520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
