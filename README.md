@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack/Front-end Web and Mobile Application development 
 - 🌱 I’m currently focused on React.js, Next.js, Vue, Angular
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: dong.luu520@gmail.com
+- 📫 How to reach me: dongluudev@gmail.com
 
 <!---
 Dluu520/Dluu520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
