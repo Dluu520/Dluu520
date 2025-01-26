@@ -7,7 +7,7 @@ Hi, I’m Dong Luu @Dluu520,
 
 
 Professional Experience: 
-- Good Greak Moving and Storage - Fullstack Developer
+- Good Greek Moving and Storage - Fullstack Developer
 - LXStudio Inc - IT specialist
 - LXStudio Inc - Receptionist / Data Entry
 
